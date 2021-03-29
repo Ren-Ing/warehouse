@@ -1,0 +1,10 @@
+package dao;
+
+import entity.User;
+
+public class UserDao {
+    public void addUser(User user)
+    {
+
+    }
+}
